@@ -7,7 +7,6 @@ The HuntressCTF Competition October 2023.
 <h2>💻🕵️‍♂️Coming soon! No spoilers until after competition!🕵️‍♂️💻</h2>
 
 
-<b>E
 
 
 <h2>Environment Used</h2>
