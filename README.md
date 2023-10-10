@@ -11,9 +11,11 @@ The HuntressCTF Competition October 2023.
 
 <h2>Environment Used</h2>
 
+- <b>HuntressCTF Competition Platform (https://huntress.ctf.games/) </b>
 - <b>VMware</b>
 - <b>Kali Linux Purple VM</b>
-- <b>HuntressCTF Competition Platform (https://huntress.ctf.games/) </b>
+- <b>Windows 10 VM</b>
+
 
 
 
