@@ -16,7 +16,7 @@ The HuntressCTF Competition October 2023.
 - <b>HuntressCTF Competition Platform</b>
 
 
-.[HuntressCTF]:(https://huntress.ctf.games/)
+[HuntressCTF]:(https://huntress.ctf.games/)
 
 
 
