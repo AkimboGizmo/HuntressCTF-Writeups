@@ -13,7 +13,8 @@ The HuntressCTF Competition October 2023.
 
 - <b>VMware</b>
 - <b>Kali Linux Purple VM</b>
-- <b>HuntressCTF Competition Platform</b> [HuntressCTF]:(https://huntress.ctf.games/)
+- <b>HuntressCTF Competition Platform</b>
+[HuntressCTF]:(https://huntress.ctf.games/)
 
 
 
