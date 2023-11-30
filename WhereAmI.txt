@@ -1,0 +1,25 @@
+# WhereAmI
+
+
+
+
+Once downloading the file, we will put it into cyber chef with the Extract EXIF in recipe:
+
+
+
+
+We find a string of encryption: ZmxhZ3tiMTFhM2YwZWY0YmMxNzBiYTk0MDljMDc3MzU1YmJhMik=
+
+
+
+
+Copy the encrypted Image Description and use cyberchef with "Base64" as the recipe:
+
+
+We now have the flag!
+Note: you must fix the typo at the end of the flag "}"
+
+Flag:
+flag{b11a3f0ef4bc170ba9409c077355bba2}
+
+
