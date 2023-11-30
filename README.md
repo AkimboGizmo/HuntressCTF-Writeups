@@ -4,8 +4,12 @@ The HuntressCTF Competition October 2023.
 ![HuntressCTF-HeaderGithub](https://github.com/ZtheAPT/HuntressCTF-Writeups/assets/145877472/c09d6549-7308-4bf5-95fc-eadc1af0a00f)
 
 
-<h2>💻🕵️‍♂️Coming soon! No spoilers until after competition!🕵️‍♂️💻</h2>
 
+
+<h2>💻🕵️‍♂️These are my walk-throughs for HuntressCTF Challenges that I completed!🕵️‍♂️💻</h2>
+
+<h2> Here is our team's Certificate of Completion of the Comp.</h2>
+![HunterssCTF-Cert](https://github.com/ZtheAPT/HuntressCTF-Writeups/assets/145877472/7318cc62-f632-420d-8c57-9ac8bc73b33b) 
 
 
 
